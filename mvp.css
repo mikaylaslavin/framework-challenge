@@ -534,3 +534,12 @@ blockquote footer {
     background-color: rgb(202, 202, 232);
     border-radius: 10px;
 }
+
+h1 {
+    color: #eb6d20;
+}
+
+h2 {
+    font-weight: 650;
+    font-size: 18px;
+}
