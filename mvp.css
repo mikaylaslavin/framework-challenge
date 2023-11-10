@@ -536,10 +536,16 @@ blockquote footer {
 }
 
 h1 {
-    color: #eb6d20;
+    color: #F78206;
+    font-size: 40px;
 }
 
 h2 {
     font-weight: 650;
     font-size: 18px;
+}
+
+h1, h2 {
+    margin: 0;
+    padding: 0;
 }
